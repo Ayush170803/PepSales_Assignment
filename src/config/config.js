@@ -1,2 +1,2 @@
-const JWT_SECRET = "paymentportal@123";
+const JWT_SECRET = "pepsales@123";
 module.exports = JWT_SECRET;
