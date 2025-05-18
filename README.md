@@ -98,7 +98,15 @@ node src/app.js
 ** App will run at http://localhost:3000 **
 ```
 ---
+## 🧪 Admin Test Credentials
 
+Use the following credentials to log in as an admin:
+
+```
+emailId = "admin@gmail.com"
+password = "Ayush@123"
+```
+---
 ## 📈 Future Improvements
 - 🟢 Real-time in-app notifications using WebSockets (e.g., Socket.IO)
 - 🗑️ Allow users to delete notifications
